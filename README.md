@@ -5,5 +5,5 @@ This chrome extension bypasses the USDT0 blacklist on the [official bridge](http
 
 I made this for personal use. Please don't use this for nefarious activities.
 
-## See Also:
+## See Also
 - [Hyperliquid Ban Bypasser](https://github.com/QuixThe2nd/Hyperliquid-Ban-Bypasser)
